@@ -21,6 +21,7 @@ const Button = styled.button`
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
+     <h1>Edgar arturo vallejo corral</h1>
     <Button as="a" href="https://utd.edu.mx/">Normal</Button>
     <Button as="a" href="https://www.facebook.com/edgar.vallejo.94064/" primary>Primary</Button>
      <Button as="a" href="https://github.com/ed03e2" primary>Primary</Button>
